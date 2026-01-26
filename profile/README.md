@@ -1,6 +1,6 @@
 # vinDAR Overview
 
-![Uploading grape-vines.jpg…]()
+![grape-vines](https://github.com/user-attachments/assets/94ed4308-d844-4f9a-968a-bfde1b4b6e61)
 
 ## Purpose of This Project
 
