@@ -1,0 +1,7 @@
+# vinDAR Overview
+
+<!--
+
+France’s vineyards are economically and culturally significant, yet they face increasing pressures from climate change and grapevine diseases, which contribute to long-term decline (Schultz, 2016; Ashenfelter & Storchmann, 2016; Bertsch et al., 2013). This project aims to develop a quantitative, spatially explicit approach to detect and quantify missing vines within vineyard parcels using publicly available geospatial data from the French National Institute of Geographic and Forest Information (IGN). We will use high-resolution LiDAR HD data and parcel-level agricultural data, building on established airborne laser scanning techniques for vegetation analysis (Roussel et al., 2020) and existing research on vineyard disease, economic impacts, and climate adaptation (Gramaje et al., 2018; Kaplan et al., 2016; Merot et al., 2025). While the initial focus will be on the Rhône Valley region of France, the methodology is designed to be reproducible and scalable, enabling extension to other major wine-producing regions. The project will deliver three main outcomes: a validated method for estimating missing vines at the parcel level, a reproducible analytical workflow for large-scale vineyard monitoring, and spatial insights to inform long-term research and management decisions in viticulture.
+
+-->
