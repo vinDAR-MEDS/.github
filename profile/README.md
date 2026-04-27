@@ -1,5 +1,3 @@
-# vinDAR
-
 # Mapping Missing Vines: Assessing the Health of Vineyards Using HD LIDAR Data
 
 <img src="https://github.com/user-attachments/assets/94ed4308-d844-4f9a-968a-bfde1b4b6e61" alt="grape vines" width="450"/>
