@@ -2,6 +2,23 @@
 
 <img src="https://github.com/user-attachments/assets/94ed4308-d844-4f9a-968a-bfde1b4b6e61" alt="grape vines" width="450"/>
 
+# Table of Contents
+
+[Project Purpose](#Project-Purpose)
+
+[Project Description](Project-Description)
+
+[Data Sources](Data-Sources)
+
+[Abstract](Abstract)
+
+[Technical Document](Technical-Document)
+
+[Disclaimers](Disclaimers)
+
+[Authors and Contributors](Authors-and-Contributions)
+
+
 ## Purpose of This Project
 
 France’s vineyards are economically and culturally significant, yet they face increasing pressures from climate change and grapevine diseases, which contribute to long-term decline (Schultz, 2016; Ashenfelter & Storchmann, 2016; Bertsch et al., 2013). This project aims to develop a quantitative, spatially explicit approach to detect and quantify missing vines within vineyard parcels using publicly available geospatial data from the French National Institute of Geographic and Forest Information (IGN). We will use high-resolution LiDAR HD data and parcel-level agricultural data, building on established airborne laser scanning techniques for vegetation analysis (Roussel et al., 2020) and existing research on vineyard disease, economic impacts, and climate adaptation (Gramaje et al., 2018; Kaplan et al., 2016; Merot et al., 2025). While the initial focus will be on the Rhône Valley region of France, the methodology is designed to be reproducible and scalable, enabling extension to other major wine-producing regions. The project will deliver three main outcomes: a validated method for estimating missing vines at the parcel level, a reproducible analytical workflow for large-scale vineyard monitoring, and spatial insights to inform long-term research and management decisions in viticulture.
@@ -72,20 +89,23 @@ src:
   - filename.csv - data 
   - lidar_improved.png - image render
 
+# Technical Documentation
+To read more about the project and the processes, refer to the [Bren Project page and technical documentation](https://bren.ucsb.edu/projects/mapping-missing-vines-french-vineyards-using-national-lidar-hd-data-climate-and-disease)
+
 
 Each repository includes its own README describing purpose, structure, and usage.
 
 # Authors and Team
 
 Team Members:
-- [Joshua Ferrer‑Lozano](https://github.com/Awoo56709) 
-- [Stephan Kadonoff](https://github.com/SRKads1998) 
+- Joshua Ferrer‑Lozano [Github](https://github.com/Awoo56709) | [Website](https://awoo56709.github.io/) | [LinkedIn](https://www.linkedin.com/in/joshuarflozano/)
+- [Stephan Kadonoff](https://github.com/SRKads1998)
 - [Jay Kim](https://github.com/jwonyk) 
 - [William Mullins](https://github.com/willrmull)
 
 # Client:
-Jean Sauveur-Ay
-[INRAE](https://www.inrae.fr/en)
+Jean Sauveur-Ay [INRAE](https://www.inrae.fr/en)
+[Andrew Plantinga](https://econ.ucsb.edu/people/faculty/andrew-plantinga)
 
 Faculty Advisor:
 [Andrew Plantinga](https://econ.ucsb.edu/people/faculty/andrew-plantinga)
