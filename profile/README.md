@@ -18,7 +18,7 @@
 
 [Client](#Client)
 
-[Acknowledgements](#Acknoledgements)
+[Acknowledgements](#Acknowledgements)
 
 [License](#License)
 
