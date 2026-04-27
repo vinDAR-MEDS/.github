@@ -30,7 +30,7 @@ Our team is in the process in creating a reproducible workflow that detects miss
 
 The result is a scalable methodology for quantifying vine mortality across French wine regions, beginning with the Rhône Valley.
 
-This is a capstone project for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at the Bren School of Environmental Science and Management, University of California, Santa Barbara.
+This is a capstone project for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at the [Bren School of Environmental Science and Management](https://bren.ucsb.edu/), University of California, Santa Barbara.
 
 # Data Sources
 
@@ -39,7 +39,7 @@ This is a capstone project for the [Master of Environmental Data Science](https:
 | LiDAR HD Point Clouds (.laz) | IGN (Institut National de l’Information Géographique et Forestière) | Vine canopy detection, clustering, gap analysis |
 | Parcel Boundaries (.shp/.gpkg) | [Registre Parcellaire Graphique](data.gouv.fr) | Parcel clipping, spatial alignment |
 | Wine Region / PDO Identifiers (.csv) | Public agriculture datasets | Linking parcels to regulatory regions |
-| eAmbrosia Regulatory Data | EU Commission | Vine spacing rules, irrigation allowances |
+| eAmbrosia Regulatory Data | [EU Commission](https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/) | Vine spacing rules, irrigation allowances |
 | CVI Vine‑Age Data | INRAE (restricted) | Validation of missing‑vine detection |
 | Environmental Data (temperature, drought, slope) | Various public datasets | Sensitivity analysis inputs |
 
@@ -85,9 +85,10 @@ Team Members:
 
 # Client:
 Jean Sauveur-Ay
+[INRAE](https://www.inrae.fr/en)
 
 Faculty Advisor:
-Andrew Plantinga
+[Andrew Plantinga](https://econ.ucsb.edu/people/faculty/andrew-plantinga)
 
 # Acknowledgements 
 We thank the Bren School faculty and staff for guidance, and acknowledge the organizations that provided regulatory, spatial, and grape‑quality data used in this project. Additional thanks to collaborators who supported data acquisition, domain interpretation, and methodological review.
