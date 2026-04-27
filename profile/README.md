@@ -18,14 +18,14 @@
 
 [Client](#Client)
 
-[Acknoledgements](#Acknoledgements)
+[Acknowledgements](#Acknoledgements)
 
 [License](#License)
 
 [How to Use This Organization](#How-to-Use-This-Organization)
 
 
-## Project Purpose
+# Project Purpose
 
 France’s vineyards are economically and culturally significant, yet they face increasing pressures from climate change and grapevine diseases, which contribute to long-term decline (Schultz, 2016; Ashenfelter & Storchmann, 2016; Bertsch et al., 2013). This project aims to develop a quantitative, spatially explicit approach to detect and quantify missing vines within vineyard parcels using publicly available geospatial data from the French National Institute of Geographic and Forest Information (IGN). We will use high-resolution LiDAR HD data and parcel-level agricultural data, building on established airborne laser scanning techniques for vegetation analysis (Roussel et al., 2020) and existing research on vineyard disease, economic impacts, and climate adaptation (Gramaje et al., 2018; Kaplan et al., 2016; Merot et al., 2025). While the initial focus will be on the Rhône Valley region of France, the methodology is designed to be reproducible and scalable, enabling extension to other major wine-producing regions. The project will deliver three main outcomes: a validated method for estimating missing vines at the parcel level, a reproducible analytical workflow for large-scale vineyard monitoring, and spatial insights to inform long-term research and management decisions in viticulture.
 
@@ -96,23 +96,25 @@ src:
 # Technical Documentation
 To read more about the project and the processes, refer to the [Bren Project page and technical documentation](https://bren.ucsb.edu/projects/mapping-missing-vines-french-vineyards-using-national-lidar-hd-data-climate-and-disease)
 
-
 Each repository includes its own README describing purpose, structure, and usage.
 
-# Authors and Team
+# Contributors
+
+## Authors and Team
 
 Team Members:
-- Joshua Ferrer‑Lozano [Github](https://github.com/Awoo56709) | [Website](https://awoo56709.github.io/) | [LinkedIn](https://www.linkedin.com/in/joshuarflozano/)
+- Joshua Ferrer‑Lozano | [Github](https://github.com/Awoo56709) | [Website](https://awoo56709.github.io/) | [LinkedIn](https://www.linkedin.com/in/joshuarflozano/)
 - Stephan Kadonoff | [Github](https://github.com/SRKads1998) | [Website](https://srkads1998.github.io/) | [LinkedIn](https://www.linkedin.com/in/stephan-kadonoff-a5b1ba162/)
 - Jay Kim | [GitHub](https://github.com/jwonyk) | [Website](https://jwonyk.github.io/) | [LinkedIn](https://www.linkedin.com/in/jwonyk)
 - William Mullins | [Github](https://github.com/willrmull) | [Website](https://william-mullins.com/) | [LinkedIn](https://www.linkedin.com/in/william-mullins-12b430207/)
 
-# Client:
-Jean Sauveur-Ay [INRAE](https://www.inrae.fr/en)
-[Andrew Plantinga](https://econ.ucsb.edu/people/faculty/andrew-plantinga)
+## Client:
+- Jean Sauveur-Ay | [INRAE](https://www.inrae.fr/en)
+- Andrew Plantinga | [Faculty Website](https://econ.ucsb.edu/people/faculty/andrew-plantinga)
+- UCSB Bren School | [Website](https://bren.ucsb.edu/)
 
-Faculty Advisor:
-[Andrew Plantinga](https://econ.ucsb.edu/people/faculty/andrew-plantinga)
+## Faculty Advisor:
+- Andrew Plantinga | [Faculty Website](https://econ.ucsb.edu/people/faculty/andrew-plantinga)
 
 # Acknowledgements 
 We thank the Bren School faculty and staff for guidance, and acknowledge the organizations that provided regulatory, spatial, and grape‑quality data used in this project. Additional thanks to collaborators who supported data acquisition, domain interpretation, and methodological review.
