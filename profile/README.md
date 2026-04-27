@@ -40,7 +40,7 @@ This is a capstone project for the [Master of Environmental Data Science](https:
 | Parcel Boundaries (.shp/.gpkg) | [Registre Parcellaire Graphique](data.gouv.fr) | Parcel clipping, spatial alignment |
 | Wine Region / PDO Identifiers (.csv) | Public agriculture datasets | Linking parcels to regulatory regions |
 | eAmbrosia Regulatory Data | [EU Commission](https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/) | Vine spacing rules, irrigation allowances |
-| CVI Vine‑Age Data | INRAE (restricted) | Validation of missing‑vine detection |
+| CVI Vine‑Age Data | Client sourced (restricted) | Validation of missing‑vine detection |
 | Environmental Data (temperature, drought, slope) | Various public datasets | Sensitivity analysis inputs |
 
 # Abstract
