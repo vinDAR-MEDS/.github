@@ -22,7 +22,7 @@
 
 [License](#License)
 
-[How to Use This Organization](#How-to-Use)
+[How to Use This Organization](#How-to-Use-This-Organization)
 
 
 ## Project Purpose
@@ -128,8 +128,9 @@ We thank the Bren School faculty and staff for guidance, and acknowledge the org
 # License 
 This project is released under the MIT License unless otherwise noted in individual repositories.
 
-## How to Use This Organization Each repository includes:
+# How to Use This Organization 
 
+## Each repository includes:
 - A clear README describing purpose and entry points
 - A walkthrough of directory structure
 - Standardized file naming conventions
