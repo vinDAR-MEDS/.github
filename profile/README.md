@@ -23,7 +23,7 @@
 
 France’s vineyards are economically and culturally significant, yet they face increasing pressures from climate change and grapevine diseases, which contribute to long-term decline (Schultz, 2016; Ashenfelter & Storchmann, 2016; Bertsch et al., 2013). This project aims to develop a quantitative, spatially explicit approach to detect and quantify missing vines within vineyard parcels using publicly available geospatial data from the French National Institute of Geographic and Forest Information (IGN). We will use high-resolution LiDAR HD data and parcel-level agricultural data, building on established airborne laser scanning techniques for vegetation analysis (Roussel et al., 2020) and existing research on vineyard disease, economic impacts, and climate adaptation (Gramaje et al., 2018; Kaplan et al., 2016; Merot et al., 2025). While the initial focus will be on the Rhône Valley region of France, the methodology is designed to be reproducible and scalable, enabling extension to other major wine-producing regions. The project will deliver three main outcomes: a validated method for estimating missing vines at the parcel level, a reproducible analytical workflow for large-scale vineyard monitoring, and spatial insights to inform long-term research and management decisions in viticulture.
 
-vinDAR: Assessing the Health of Vinyards Using HD LIDAR Data
+Mapping Missing Vines: Assessing the Health of Vineyards Using HD LIDAR Data
 
 # Project Description
 
@@ -99,9 +99,9 @@ Each repository includes its own README describing purpose, structure, and usage
 
 Team Members:
 - Joshua Ferrer‑Lozano [Github](https://github.com/Awoo56709) | [Website](https://awoo56709.github.io/) | [LinkedIn](https://www.linkedin.com/in/joshuarflozano/)
-- [Stephan Kadonoff](https://github.com/SRKads1998)
-- [Jay Kim](https://github.com/jwonyk) 
-- [William Mullins](https://github.com/willrmull)
+- Stephan Kadonoff | [Github](https://github.com/SRKads1998) | [Website](https://srkads1998.github.io/) | [LinkedIn](https://www.linkedin.com/in/stephan-kadonoff-a5b1ba162/)
+- Jay Kim | [GitHub](https://github.com/jwonyk) | [Website](https://jwonyk.github.io/) | [LinkedIn](https://www.linkedin.com/in/jwonyk)
+- William Mullins | [Github](https://github.com/willrmull) | [Website](https://william-mullins.com/) | [LinkedIn](https://www.linkedin.com/in/william-mullins-12b430207/)
 
 # Client:
 Jean Sauveur-Ay [INRAE](https://www.inrae.fr/en)
