@@ -1,7 +1,7 @@
 # Mapping Missing Vines: Assessing the Health of Vineyards Using HD LIDAR Data
 
 <div align="center">
-<img width="500" height="500" alt="VinDAR-Logo-3" src="https://github.com/user-attachments/assets/7a057e27-7c8a-4119-9e4a-f6ee8e2f3ad5" />
+<img width="500" height="500" alt="VinDAR-Logo-3-transparent" src="https://github.com/user-attachments/assets/852e7a65-dedb-4b8e-a205-790e67e08827" />
 </div>
 
 # Table of Contents
@@ -33,11 +33,11 @@ France’s vineyards are economically and culturally significant, yet they face 
 
 # Project Description
 
-This project develops a modeling and data‑integration framework to estimate long‑term vine mortality. The core contribution of this project is to provide a reproducible, LIDAR-based workflow for detecting missing grapevines at the parcel level. This workflow transforms raw HD LIDAR point clouds into meaningful indicators of vineyard structure, geometry and vine mortality. The analysis combines spatial preprocessing, height filtering, machine learning clustering, frequency detection and gap analyusis to produce parcel-level estimates of missing vines.
+This project develops a modeling and data‑integration framework to estimate long‑term vine mortality. The core contribution of this project is to provide a reproducible, LIDAR-based workflow for detecting missing grapevines at the parcel level. This workflow transforms raw HD LIDAR point clouds into meaningful indicators of vineyard structure, geometry, and vine mortality. The analysis combines spatial preprocessing, height filtering, machine learning clustering, frequency detection, and gap analysis to produce parcel-level estimates of missing vines.
 
-The second possible analysis may allow for the evaluations of vineyard vulnerability under climate stress, and enable the linkage of these risks to PDO/AOC regulations, grape varieties, and wine‑region characteristics. This workflow combines LiDAR data, ecological modeling models, sensitivity analysis and regulatory data extraction.
+The second possible analysis may allow evaluation of vineyard vulnerability under climate stress and enable linking these risks to PDO/AOC regulations, grape varieties, and wine‑region characteristics. This workflow combines LiDAR data, ecological modeling models, sensitivity analysis, and regulatory data extraction.
 
-Our team is in the process in creating a reproducible workflow that detects missing vines using LiDAR point clouds, parcel boundaries, and regulatory spacing rules. The workflow integrates:
+Our team developed a reproducible workflow to detect missing vines using LiDAR point clouds, parcel boundaries, and regulatory spacing rules. The workflow integrates:
 
 -   vegetation height filtering
 
@@ -70,31 +70,6 @@ This is a capstone project for the [Master of Environmental Data Science](https:
 
 Climate change is reshaping vineyard viability across Europe, yet regional regulations, spacing rules, and varietal characteristics create uneven vulnerability across PDOs and wine types. vinDAR integrates climate‑stress mortality modeling, LiDAR‑based detection workflows, and PDO regulatory data to estimate long‑term vine loss and identify which regions, varieties, and wine styles are most susceptible to mortality.
 
-Repositories in This Organization
-
-```
-vinDAR/
-├── .git/
-├── .gitignore
-├── .Rproj.user/
-├── .Rhistory
-├── LICENSE
-├── README.md
-├── vinDAR.Rproj
-├── nano.30808.save
-└── src/
-    ├── data_import.py
-    ├── exploratory_analysis.ipynb
-    ├── filename.csv
-    └── lidar_improved.png
-```
-
-src:
-  - data_import.py - import file 
-  - exploratory_analysis.ipynb - main analysis 
-  - filename.csv - data 
-  - lidar_improved.png - image render
-
 # Technical Documentation
 To read more about the project and the processes, refer to the [Bren Project page and technical documentation](https://bren.ucsb.edu/projects/mapping-missing-vines-french-vineyards-using-national-lidar-hd-data-climate-and-disease)
 
@@ -111,9 +86,8 @@ Team Members:
 - William Mullins | [Github](https://github.com/willrmull) | [Website](https://william-mullins.com/) | [LinkedIn](https://www.linkedin.com/in/william-mullins-12b430207/)
 
 ## Client:
-- Jean Sauveur-Ay | [INRAE](https://www.inrae.fr/en)
-- Andrew Plantinga | [Faculty Website](https://econ.ucsb.edu/people/faculty/andrew-plantinga)
-- UCSB Bren School | [Website](https://bren.ucsb.edu/)
+- Jean-Sauveur Ay | [INRAE](https://eng-cesaer.dijon.hub.inrae.fr/members/scientist-staff/ay-jean-sauveur)
+- Andrew Plantinga | [Faculty Website](https://bren.ucsb.edu/people/andrew-plantinga)
 
 ## Faculty Advisor:
 - Andrew Plantinga | [Faculty Website](https://econ.ucsb.edu/people/faculty/andrew-plantinga)
@@ -135,12 +109,12 @@ This project is released under the MIT License unless otherwise noted in individ
 # How to Use This Organization 
 
 ## Each repository includes:
-- A clear README describing purpose and entry points
-- A walkthrough of directory structure
+- A clear README describing the purpose and entry points
+- A walkthrough of the directory structure
 - Standardized file naming conventions
 - Reproducible code and documented workflows
 - Appropriate licensing and contributor information
-- A walkthrough of directory structure
+- A walkthrough of the directory structure
 - Standardized file naming conventions
 - Reproducible code and documented workflows
 - Appropriate licensing and contributor information
