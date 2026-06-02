@@ -90,7 +90,7 @@ Team Members:
 - Andrew Plantinga | [Faculty Website](https://bren.ucsb.edu/people/andrew-plantinga)
 
 ## Faculty Advisor:
-- Andrew Plantinga | [Faculty Website](https://econ.ucsb.edu/people/faculty/andrew-plantinga)
+- Andrew Plantinga | [Faculty Website](https://bren.ucsb.edu/people/andrew-plantinga)
 
 # Acknowledgements 
 We thank the Bren School faculty and staff for guidance, and acknowledge the organizations that provided regulatory, spatial, and grape‑quality data used in this project. Additional thanks to collaborators who supported data acquisition, domain interpretation, and methodological review.
