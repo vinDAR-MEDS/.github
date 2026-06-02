@@ -1,7 +1,7 @@
 # Mapping Missing Vines: Assessing the Health of Vineyards Using HD LIDAR Data
 
 <div align="center">
-<img width="1024" height="1024" alt="VinDAR-Logo-3" src="https://github.com/user-attachments/assets/7a057e27-7c8a-4119-9e4a-f6ee8e2f3ad5" />
+<img width="500" height="500" alt="VinDAR-Logo-3" src="https://github.com/user-attachments/assets/7a057e27-7c8a-4119-9e4a-f6ee8e2f3ad5" />
 </div>
 
 # Table of Contents
